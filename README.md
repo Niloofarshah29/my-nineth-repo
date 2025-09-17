@@ -1,5 +1,5 @@
 # my-nineth-repo
-my testin
+my testing
 from PyPDF2 import PdfMerger
 
 merger = PdfMerger()
