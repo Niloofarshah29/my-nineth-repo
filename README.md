@@ -1,4 +1,4 @@
-# my-nineth-rep
+# my-nineth-repo
 my testing
 from PyPDF2 import PdfMerger
 
