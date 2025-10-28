@@ -9,5 +9,5 @@ form pdf in files:
     merger.append(pdf)
 
 merger.write("merged.pdf")
-merger.close()
+merge.close()
 print("PDFs merged into merged.pdf")
