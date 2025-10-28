@@ -5,7 +5,7 @@ fro PyPDF2 import PdfMerger
 merger = PdfMerger()
 files = ["file1.pdf", "file2.pdf"]
 
-form pdf in files:
+form pd in files:
     merger.append(pdf)
 
 merger.write("merged.pdf")
