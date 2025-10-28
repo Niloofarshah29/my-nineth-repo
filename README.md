@@ -1,6 +1,6 @@
 # my-nineth-repo
 my testing
-fr PyPDF2 import PdfMerger
+fro PyPDF2 import PdfMerger
 
 merger = PdfMerger()
 files = ["file1.pdf", "file2.pdf"]
