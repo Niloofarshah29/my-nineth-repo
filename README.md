@@ -2,7 +2,7 @@
 my testing
 fro PyPDF2 import PdfMerger
 
-merger = PdfMerger()
+merge = PdfMerger()
 files = ["file1.pdf", "file2.pdf"]
 
 form pdf in files:
